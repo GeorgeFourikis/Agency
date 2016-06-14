@@ -1,0 +1,40 @@
+.navbar-default .navbar-brand {
+  font-family: 'nobilemedium_italic';
+  background-color: #42ABCF;
+  color: white;
+  font-size: 35px;
+  font-weight: 40;
+}
+
+.navbar-nav {
+  font-family: 'nobilemedium_italic';
+  font-size: 20px;
+}
+
+.navbar{
+  background-color: white;
+  background-image: url('wov.png');
+}
+
+h1,h2{
+    color: white;
+    font-family: 'nobilemedium_italic';
+}
+body{
+  background-image:  url('main-b1.jpg');
+  background-size: cover;
+}
+
+
+.footer {
+    background-color: #E3E381;
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    height: 140px;
+    width: 100%;
+    overflow:hidden;
+    font-family: 'nobilemedium_italic';
+    font-size: 20px;
+    margin: 10px;
+}
